@@ -1,4 +1,4 @@
-#Wavelet Tree
+# Wavelet Tree
 
 ## References 
 Reference for the ([Wavelet Tree](http://alexbowe.com/wavelet-trees/)).
